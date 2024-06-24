@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Opa <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, eu sou o Yan! Um desenvolvedor web.
+<h2> Opa <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, eu sou o Yan! Um desenvolvedor web. </h2>  
 
   - 📚 Cursando Análise e Desenvolvimento de Sitemas.
   - 🔭 Estou em busca da minha primeira oportunidade na área. 
@@ -15,19 +15,25 @@
   <summary>👨‍💻 More about me</summary>
 
   - 💬Tenho 19 anos e atualmente moro no Brasil. Tenho um inglês básico e tenho experiência com SQL, Javascript, Análise de Dados. Tenho facilidade com computadores desde novo. E também sempre fui muito interessado o que me ajudou a desenvolver habilidades importantes como proatividade, criatividade, comunicação, marketing, capacidade analítica, gestão de comunidades e mídias sociais.
-  - <p></p>
+   <p></p>
   - ⚡ Gosto de ouvir musica, seja antiga ou atual, ler mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. 
     ></p>
 </details>
 
 <!-- Links -->
+# Fale Comigo
+<a>
+<a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act" target="_blank"></a>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo">
+</a>
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanxzh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-martins-925216249/)
 
 
 <!-- GithubStats -->
-![ Yanxzh GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxzhh&theme=dark&show_icons=true)
+![ Yanxzh GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxzhh&theme=midnight-purple_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxzhh&hide_progress=true)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -47,7 +53,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
@@ -56,4 +62,36 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   </div>
-  
+   <br> </br>
+                                             𝓣𝓱𝓮 𝓦𝓸𝓻𝓵𝓭 𝓘𝓼 𝓨𝓸𝓾𝓻𝓼!
+
+<p align="center">Hello World!</p>
+
+###
+
+<div align="left">
+  <a href="wtfyan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
