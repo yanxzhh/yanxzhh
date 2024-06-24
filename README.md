@@ -22,17 +22,13 @@
 
 <!-- Links -->
 # Fale Comigo
-<a>
-<a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act" target="_blank"></a>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo">
-</a>
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanxzh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-martins-925216249/)
 
 
 <!-- GithubStats -->
-![ Yanxzh GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxzhh&theme=midnight-purple_icons=true)
+![ Yanxzh GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxzhh&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxzhh&hide_progress=true)
 
 <!-- Portfolio -->
@@ -63,35 +59,6 @@
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   </div>
    <br> </br>
-                                             𝓣𝓱𝓮 𝓦𝓸𝓻𝓵𝓭 𝓘𝓼 𝓨𝓸𝓾𝓻𝓼!
+ ##                                                       𝓣𝓱𝓮 𝓦𝓸𝓻𝓵𝓭 𝓘𝓼 𝓨𝓸𝓾𝓻𝓼!
 
-<p align="center">Hello World!</p>
-
-###
-
-<div align="left">
-  <a href="wtfyan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-###
+  
