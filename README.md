@@ -27,7 +27,7 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?yanxzhh=variablebee&show_icons=true&theme=gotham)
+![ Yanxzh GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxzhh&theme=dark&show_icons=true)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -35,7 +35,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gifv" alt="Imagem">
+ <img src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gif"></img>
 </p>
 
 ## 🔥 Skills
@@ -46,6 +46,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   </div>
   
