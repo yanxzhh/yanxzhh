@@ -29,7 +29,7 @@
 
 <!-- GithubStats -->
 ![ Yanxzh GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxzhh&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxzhh&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxzhh&hidetheme=midnight-purple&show_progress=true)
 
 <!-- Portfolio -->
 ## Portfolio:
