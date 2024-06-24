@@ -23,13 +23,16 @@
 <!-- Links -->
 # Fale Comigo
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:yanlima66y@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanxzh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-martins-925216249/)
 
 
 <!-- GithubStats -->
 ![ Yanxzh GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxzhh&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxzhh&hidetheme=midnight-purple&show_progress=true)
+<a href="https://github.com/yanxzhh/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yanxzhh&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -58,6 +61,13 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   </div>
+   <br>
+   
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanxzhh/yanxzhh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanxzhh/yanxzhh/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yanxzhh/yanxzhh/output/github-contribution-grid-snake.svg">
+</picture>
    <br> </br>
                                                     𝓣𝓱𝓮 𝓦𝓸𝓻𝓵𝓭 𝓘𝓼 𝓨𝓸𝓾𝓻𝓼!
 
