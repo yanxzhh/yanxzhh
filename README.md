@@ -59,6 +59,6 @@
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   </div>
    <br> </br>
- ##                                                       𝓣𝓱𝓮 𝓦𝓸𝓻𝓵𝓭 𝓘𝓼 𝓨𝓸𝓾𝓻𝓼!
+                                                    𝓣𝓱𝓮 𝓦𝓸𝓻𝓵𝓭 𝓘𝓼 𝓨𝓸𝓾𝓻𝓼!
 
   
