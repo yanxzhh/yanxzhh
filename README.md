@@ -40,7 +40,7 @@
 
 <!-- GIF -->
 <p align="left">
- <img src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gif"></img>
+ <img src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gif" widht="300px" height="500px"></img>
 </p>
 
 ## 🔥 Skills
