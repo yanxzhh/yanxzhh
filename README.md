@@ -17,7 +17,7 @@
   - 💬Tenho 19 anos e atualmente moro no Brasil. Tenho um inglês básico e tenho experiência com SQL, Javascript, Análise de Dados. Tenho facilidade com computadores desde novo. E também sempre fui muito interessado o que me ajudou a desenvolver habilidades importantes como proatividade, criatividade, comunicação, marketing, capacidade analítica, gestão de comunidades e mídias sociais.
    <p></p>
   - ⚡ Gosto de ouvir musica, seja antiga ou atual, ler mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. 
-    ></p>
+    </p>
 </details>
 
 <!-- Links -->
